@@ -1,0 +1,2 @@
+class OceansController < ApplicationController
+end
